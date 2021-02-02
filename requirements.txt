@@ -1,5 +1,1 @@
-argparse==1.2.1
 paho-mqtt==1.1
-sh==1.11
-wsgiref==0.1.2
-xbmc-json==0.1.0
